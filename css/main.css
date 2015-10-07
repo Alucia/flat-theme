@@ -13,3 +13,22 @@
 .clearfix:after {
   clear: both;
 }
+header{
+	background-color: #34495e;
+}
+/*menu header*/
+.navbar .navbar-brand {
+  font-size: 35px;
+  color: #444;
+}
+.navbar .navbar-toggle .icon-bar {
+  background: #fff;
+}
+.navbar .navbar-right {
+  margin-top: 12px;
+  margin-left: 5px;
+}
+/*******************/
+.nav>li>a:hover{
+	background-color: rgba(0,0,0,0.6);
+}
