@@ -13,8 +13,29 @@
 .clearfix:after {
   clear: both;
 }
+<<<<<<< HEAD
 /*MORE-DETAILS*/
 .more-details li{
 	list-style: none;
 	display: block;
+=======
+header{
+	background-color: #34495e;
+}
+/*menu header*/
+.navbar .navbar-brand {
+  font-size: 35px;
+  color: #444;
+}
+.navbar .navbar-toggle .icon-bar {
+  background: #fff;
+}
+.navbar .navbar-right {
+  margin-top: 12px;
+  margin-left: 5px;
+}
+/*******************/
+.nav>li>a:hover{
+	background-color: rgba(0,0,0,0.6);
+>>>>>>> 6faab332829e9326df7eaed696a2c7d5e81d6281
 }
