@@ -13,3 +13,8 @@
 .clearfix:after {
   clear: both;
 }
+/*MORE-DETAILS*/
+.more-details li{
+	list-style: none;
+	display: block;
+}
