@@ -39,8 +39,8 @@
 }
 /****************************/
 .project,
-.knowledge  /*css de knowledge*/
-{
+.knowledge, /*css de knowledge*/
+.meet{
   color: #2c3e50;
 }
 .pagination>li>a{
@@ -74,6 +74,42 @@
   font-weight: 300;
   padding-right: 2%;
 }
+/*css de knowledge*/
+.progress{
+  height: 30px;
+}
+.progress-bar{
+  padding: 1%;
+}
+/******************/
+/*css de meet*/
+.meet img{
+  border-radius: 100%;
+  margin: 3%;
+}
+.meet .care {
+  font-size: 13px;
+  color: #8F8F8F;
+  font-weight: 300;
+}
+.meet i{
+  color: #fff;
+  padding: 10px 12px;
+  border-radius: 100%;
+}
+.meet .fa-facebook{
+  background-color: #6666FF;
+  padding: 10px 14px;
+}
+.meet .fa-google-plus{
+  background-color: #D84939;
+}
+.meet .fa-twitter{
+  background-color: #55ACEE;
+}
+.meet .fa-linkedin{
+  background-color: #1D87BD;
+}
 /*utilities*/
 .pt-2{
   padding-top: 2%;
@@ -92,4 +128,7 @@
 }
 .pr-10{
   padding-right: 10px;
+}
+.mb-0{
+  margin-bottom: 0px;
 }
