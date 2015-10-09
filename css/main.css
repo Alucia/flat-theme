@@ -11,61 +11,6 @@
 .clearfix:after {
   clear: both;
 }
-body,html{
-  width: 100%;
-  height: 100%;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300!important;
-  color: #fff;
-}
-/*menu hamburguesa*/
-.navbar .navbar-brand {
-  font-size: 35px;
-  color: #444;
-}
-.navbar .navbar-toggle .icon-bar {
-  background: #fff;
-}
-.navbar .navbar-right {
-  margin-top: 12px;
-  margin-left: 5px;
-}
-header .navbar{
-	background-color: #2c3e50;
-  padding: 0.5% 0% 1%;
-}
-header ul li a, 
-.more-details,
-.more-details a,
-footer ul li a{
-  color: #CCCCCC !important;
-}
-/*css del menu*/
-header .navbar-nav li a:active,
-header .navbar-nav li a:hover,
-.more-details h4,
-.more-details a:hover,
-footer .menu-footer li a:hover
-{
-  color: #fff !important;
-}
-header .active,
-footer .menu-footer li:hover{
-  background-color: rgba(0,0,0,0.1)!important;
-  border-radius: 5px; 
-  color: #fff!important; 
-}
-.navbar-nav>li>a{
-  padding-top: 8px!important;
-  padding-bottom: 8px!important;
-}
-.navbar{
-  margin-bottom: 0px!important;
-  border-radius: 0px!important;
-}
-.navbar-default{
-  border-color: #2c3e50;
-}
 /*hero-image*/
 .hero-image{
   width: 100%;
@@ -78,7 +23,7 @@ footer .menu-footer li:hover{
 /*****************************/
 /*red social*/
 .social{
-  background-color: #3EBF5E;
+  background-color: #51C56E; /*color verde*/
 }
 .social h2{
   margin-top: 0px !important;
@@ -111,7 +56,7 @@ footer .menu-footer li:hover{
 /****************************/
 .say-clients, 
 .say-clients h2{  
-  background-color: #F36749;
+  background-color: #F36749; /*color melon*/
   color: #fff;
   font-weight: 100!important;
 }
@@ -122,51 +67,10 @@ footer .menu-footer li:hover{
 .comment p{
   padding-left: 10px;
 }
-.say-clients 
-.comment :first-child{
+.say-clients .comment :first-child{
   font-size: 19px;
   font-weight: 300;
   padding-right: 2%;
-}
-/*MORE-DETAILS*/
-.more-details{
-  background-color: #2c3e50;
-  font-weight: 100;
-}
-.more-details li{
-  list-style: none;
-  display: block;
-}
-.input-group-addon,
-.pagination>li>a:hover{
-  background-color: #DB4D4D;
-  border: 1px solid #D63333;
-}
-/*footer*/
-footer{
-  background-color: #283848;
-  padding: 2% 0%;
-}
-footer p{
-  display: inline-block;
-}
-footer ul li, footer ul{
-  list-style: none;
-  display: inline-block;
-}
-footer .menu-footer li,footer .menu-footer a{
-  padding: 10px 5px;
-}
-footer .menu-footer a:hover, .more-details a
-{
-  text-decoration: none;
-  color: #fff;
-}
-.media img,.media p{
-  float: left;
-}
-.media p:last-child{
-  font-size: 12px;
 }
 /*utilities*/
 .pt-2{
