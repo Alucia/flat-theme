@@ -38,7 +38,9 @@
   border-radius: 100%;
 }
 /****************************/
-.project {
+.project,
+.knowledge  /*css de knowledge*/
+{
   color: #2c3e50;
 }
 .pagination>li>a{
