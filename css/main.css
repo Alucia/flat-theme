@@ -39,8 +39,10 @@
 }
 /****************************/
 .project,
-.knowledge, /*css de knowledge*/
-.meet{
+.knowledge, /*css de knowledge about-us.html*/
+.meet,  /*css meet about.hmtl*/
+.development /*css development services.html*/
+{
   color: #2c3e50;
 }
 .pagination>li>a{
@@ -74,7 +76,7 @@
   font-weight: 300;
   padding-right: 2%;
 }
-/*css de knowledge*/
+/*css de knowledge about-us.html*/
 .progress{
   height: 30px;
 }
@@ -82,7 +84,7 @@
   padding: 1%;
 }
 /******************/
-/*css de meet*/
+/*css de meet about-us.html*/
 .meet img{
   border-radius: 100%;
   margin: 3%;
