@@ -45,7 +45,8 @@
 .knowledge, /*css de knowledge about-us.html*/
 .meet,  /*css meet about.hmtl*/
 .development, /*css development services.html*/
-.say-clients-services /*css say-clients services.html*/
+.say-clients-services, /*css say-clients services.html*/
+.blog-item  /*css blog-item.hmtl*/
 {
   color: #2c3e50;
 }
