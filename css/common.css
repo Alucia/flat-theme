@@ -81,11 +81,12 @@ footer .menu-footer li:hover{
   display: block;
 }
 .input-group-addon,
-.pagination>li>a:hover{
+.pagination-index>li>a:hover{
   background-color: #DB4D4D; /*color rojo*/
   border: 1px solid #D63333;
 }
 .media img,.media p{
+	display: block;
   float: left;
 }
 .media p:last-child{

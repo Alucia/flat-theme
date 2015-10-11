@@ -51,7 +51,7 @@
 {
   color: #2c3e50;
 }
-.pagination>li>a{
+.pagination-index>li>a{
   background-color: #D63333;
   color: #fff;
   border: 1px solid #D11919;
@@ -207,6 +207,16 @@
 .img-blog img{
   border-radius: 5px;
   width: 100%;
+}
+/*blog.html*/
+.pagination-blog li a{
+  border: none;
+  color:  #283848;
+  background-color: #fff;
+}
+.pagination-blog .active a{
+  color: #fff;
+  background-color: #283848!important;
 }
 /*utilities*/
 .pt-2{
