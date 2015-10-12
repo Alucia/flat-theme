@@ -221,33 +221,7 @@
   background-color: #283848!important;
 }
 /*portfolio*/
-  .image1{
-    background-image: url(../images/portfolio/full/item1.jpg);
-    background-size: cover;
-    padding: 30%;
-  }
-  .image2{
-    background-image: url(../images/portfolio/full/item2.jpg);
-    background-size: cover;
-    padding: 30%;
-  }
-  .image3{
-    background-image: url(../images/portfolio/full/item3.jpg);
-    background-size: cover;
-    padding: 30%;
-  }
-  .image4{
-    background-image: url(../images/portfolio/full/item4.jpg);
-    background-size: cover;
-    padding: 30%;
-  }
-  .image5{
-    background-image: url(../images/portfolio/full/item5.jpg);
-    background-size: cover;
-    padding: 30%;
-  }
-  .image6{
-    background-image: url(../images/portfolio/full/item6.jpg);
+  .image{
     background-size: cover;
     padding: 30%;
   }
