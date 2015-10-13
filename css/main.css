@@ -222,11 +222,23 @@
 }
 /*portfolio*/
   .border{
+    background-color: #fff;
     padding: 5% 5% 3%;
     border: 1px solid #E6E6E6;
   }
   .galery p{
     margin-top: 10px;
+  }
+  .thumbnail{
+    padding: 0px;
+    border:  none;
+    border-radius: 0px;
+  }
+  .modal-title{
+    color: #51C56E;
+  }
+  .modal-body img{
+    width: 100%;
   }
 /*utilities*/
 .pt-2{
