@@ -221,11 +221,7 @@
   background-color: #283848!important;
 }
 /*portfolio*/
-  .image{
-    background-size: cover;
-    padding: 30%;
-  }
-  .borde{
+  .border{
     padding: 5% 5% 3%;
     border: 1px solid #E6E6E6;
   }
